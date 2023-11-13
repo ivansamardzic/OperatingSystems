@@ -1,0 +1,8 @@
+Documentation = 3.5/3.5
+Code = 1.5/1.5
+Code Clarity = 1.5/1.5
+Testing = 3.5/3.5
+
+Total = 10/10
+
+Well done!

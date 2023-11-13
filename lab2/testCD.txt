@@ -1,0 +1,13 @@
+Script started on 2023-10-16 17:08:26-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="15"]
+]0;21is8@elec377-thurs-16: ~/elec377-Thurs-16/lab2[01;32m21is8@elec377-thurs-16[00m:[01;34m~/elec377-Thurs-16/lab2[00m$ cd
+]0;21is8@elec377-thurs-16: ~[01;32m21is8@elec377-thurs-16[00m:[01;34m~[00m$ pwd
+/home/21is8
+]0;21is8@elec377-thurs-16: ~[01;32m21is8@elec377-thurs-16[00m:[01;34m~[00m$ cd elec377-Thurs-16
+]0;21is8@elec377-thurs-16: ~/elec377-Thurs-16[01;32m21is8@elec377-thurs-16[00m:[01;34m~/elec377-Thurs-16[00m$ pwd
+/home/21is8/elec377-Thurs-16
+]0;21is8@elec377-thurs-16: ~/elec377-Thurs-16[01;32m21is8@elec377-thurs-16[00m:[01;34m~/elec377-Thurs-16[00m$ cd lab77
+bash: cd: lab77: No such file or directory
+]0;21is8@elec377-thurs-16: ~/elec377-Thurs-16[01;32m21is8@elec377-thurs-16[00m:[01;34m~/elec377-Thurs-16[00m$ exit
+exit
+
+Script done on 2023-10-16 17:09:10-04:00 [COMMAND_EXIT_CODE="1"]

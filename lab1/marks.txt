@@ -1,0 +1,10 @@
+Documentation = 3/3
+Code = 3/3
+Code Clarity = 2/2
+Testing = 1.5/2
+
+Total = 9.5/10
+
+Testing should be done using more than just one command (ex: cat and dd, instead of only cat).
+Also in future, try and describe how you solve the problem more. For example, in this lab
+by using the task_struct and cred struct to get the PCB information.

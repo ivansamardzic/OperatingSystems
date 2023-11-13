@@ -1,0 +1,9 @@
+Script started on 2023-10-16 17:23:08-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="158" LINES="15"]
+]0;21is8@elec377-thurs-16: ~/elec377-Thurs-16/lab2[01;32m21is8@elec377-thurs-16[00m:[01;34m~/elec377-Thurs-16/lab2[00m$ pwd
+/home/21is8/elec377-Thurs-16/lab2
+]0;21is8@elec377-thurs-16: ~/elec377-Thurs-16/lab2[01;32m21is8@elec377-thurs-16[00m:[01;34m~/elec377-Thurs-16/lab2[00m$ pwdfff
+pwdfff: command not found
+]0;21is8@elec377-thurs-16: ~/elec377-Thurs-16/lab2[01;32m21is8@elec377-thurs-16[00m:[01;34m~/elec377-Thurs-16/lab2[00m$ exit
+exit
+
+Script done on 2023-10-16 17:23:23-04:00 [COMMAND_EXIT_CODE="127"]
