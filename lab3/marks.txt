@@ -1,0 +1,10 @@
+Documentation = 3/3
+Code = 2.5/3
+Code Clarity = 2/2
+Testing = 1.5/2
+
+Total = 9/10
+
+Well done. 
+Interrupts should be simulated in producer and consumer.
+There were two duplicates in the t11.dat and t12.dat that should have been removed.
